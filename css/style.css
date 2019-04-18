@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: cyan;
+}
+
+body h6 {
+    padding: 5em;
+    font-size: 2em;
+}
+
+button {
+    font-size: 2em;
+    border: .05em solid cyan;
+    border-radius: .5em;
+    background-color: white;
+    color: black;
+}
+
+button:hover {
+    border: .05em solid white;
+    border-radius: .5em;
+    background-color: black;
+    color: white;
+}
